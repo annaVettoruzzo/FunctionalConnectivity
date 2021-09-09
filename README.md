@@ -1,7 +1,7 @@
 # FunctionalConnectivity
 Master's thesis: Modelling MEG-based resting-state functional connectivity to predict inter-individual differences in motor tasks.
 
-This study is a contribution to the ERC HANDmade project(SH4,ERC-
+This study is a contribution to the ERC HANDmade project (SH4,ERC-
 2017-STG) directed by Prof. Betti (University "LaSapienza" of Rome),
 which investigates how natural hand usage shapes behaviour as well as 
 intrinsic and task-evoked brain activity. In particular, the thesis work
