@@ -13,7 +13,7 @@ clean_EMG: remove bad segments from EMG signals.
 
 analysisMEG_EMG_RMS/ZCR: models resting-state FC to predict inter individual differences in RMS and ZCR extracted from EMG data during motor tasks.
 
-analysisMEG_EMG_RMS/ZCRntw: models resting-state FC to	predict inter individual differences in RMS and ZCR exploiting 3 grah metrics extracted from FC matrices.
+analysisMEG_EMG_RMS/ZCRntw: models resting-state FC to	predict inter individual differences in RMS and ZCR exploiting 3 graph metrics extracted from FC matrices.
 
 taskFC_RMS/ZCR: models task-evoked FC to predict inter individual differences in RMS and ZCR extracted from EMG data during motor tasks.
 
