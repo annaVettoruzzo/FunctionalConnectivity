@@ -17,3 +17,9 @@ the features used to represent the data. Therefore, further tests should be
 done in the future to overcome these limitations and open novel opportunities
 for future developments of robotic-assisted technology and neuroprostheses,
 based on personalized educational training programs.
+
+In codes.txt a brief explanation of the codes is provided.
+
+Author: Anna Vettoruzzo
+Supervisor: Prof. Giulia Cisotto
+Co-supervisor: Prof. Viviana Betti and Dr. Ottavia Maddaluno
