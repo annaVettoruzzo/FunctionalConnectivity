@@ -21,5 +21,7 @@ based on personalized educational training programs.
 In codes.txt a brief explanation of the codes is provided.
 
 Author: Anna Vettoruzzo
+
 Supervisor: Prof. Giulia Cisotto
+
 Co-supervisor: Prof. Viviana Betti and Dr. Ottavia Maddaluno
